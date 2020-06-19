@@ -1,0 +1,9 @@
+following are 7 edge detection algorithms
+
+1. Roberts Edge Detection 
+2. Sobel Edge Detection
+3. Prewitt Edge Detection
+4. Kirsch Edge detection
+5. Robinson Edge detection
+6. Marr-Hildreth Edge Detection
+7. LoG edge detection
